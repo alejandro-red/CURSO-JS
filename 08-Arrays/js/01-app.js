@@ -1,0 +1,1 @@
+//arreglos es el agrupar elementos del mismo tipo
